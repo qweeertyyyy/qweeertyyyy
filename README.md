@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Snoop-Scripts
+- 👀 I’m interested in Lua, JavaScript, CSS, HTML ja Python.
+- ⚡ VAMOS
