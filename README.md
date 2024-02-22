@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Snoop-Scripts
+- 👋 Hi, I’m qweeertyyyy
 - 👀 I’m interested in Lua, JavaScript, CSS, HTML ja Python.
-- ⚡ VAMOS
+- 💤 Sleeping
