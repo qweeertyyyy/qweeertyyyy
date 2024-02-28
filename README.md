@@ -1,4 +1,4 @@
-
+![image](https://github.com/qweeertyyyy/qweeertyyyy/assets/133780594/e2efacb5-b00c-489b-bc1b-fd6425d10f26)
 - 💤 Hey there, I'm qweeertyyyy.
 - 👀 I'm a 17-year-old enthusiast dabbling in Lua, JavaScript, CSS, HTML, and Python.
 - 💻 Coding is my hobby, and I love exploring the creative side of programming.
