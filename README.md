@@ -6,4 +6,5 @@
 - 📚 While I'm not studying, you'll find me immersed in various coding projects and experimenting with new technologies.
 - 🌐 Building cool websites and tinkering with web development is where I channel my creative energy.
 - 🚀 I'm always open to new ideas and excited to collaborate on fun coding projects!
-- ![image](https://github.com/qweeertyyyy/qweeertyyyy/assets/133780594/d7f25a07-334c-4015-9ff3-a9fd9b78f702)
+![image](https://github.com/qweeertyyyy/qweeertyyyy/assets/133780594/a764862b-d6de-4bcd-8fc1-283ad246d2b3)
+
